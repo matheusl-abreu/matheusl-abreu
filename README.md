@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @matheusl-abreu
-- 👀 I’m interested in ... macOS, Linux, FreeBSD, DevOps
-- 🌱 I’m currently learning ... CDK, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in ... Mikrotik, macOS, Linux, FreeBSD, DevOps
+- 🌱 I’m currently learning ... a lot of things
 
 <!---
 matheusl-abreu/matheusl-abreu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
